@@ -8,10 +8,6 @@ const App = function () {
         <Board
         />
       </main>
-      <div className='moves'>
-        <p>Moves</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa delectus quidem sequi recusandae error, libero rem ut necessitatibus voluptates. Maxime pariatur rerum dolor sint architecto rem labore quaerat repellendus. Suscipit?</p>
-      </div>
     </div>
   );
 }
